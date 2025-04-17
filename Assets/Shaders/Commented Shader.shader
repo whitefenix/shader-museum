@@ -26,7 +26,7 @@ Shader "Custom/Commented Shader"
                 float3 normals : NORMAL;
                 // float4 color : COLOR;
                 // float4 tangent : TANGENT;
-                // float2 uv1 : TEXCOORD1; //Semantics refer to specific UV channels
+               // float2 uv1 : TEXCOORD1; //Semantics refer to specific UV channels
             };
 
             struct Interpolators //Fragment shader input
